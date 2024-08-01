@@ -44,3 +44,14 @@ These instructions do not cover the physical installation or support for the har
 * Connect the Pico to your computer via the appropriate USB cable, after connecting release the BOOTSEL button, the PICO should be mounted to your filesystem.
 * Copy all the cloned files including the modified wifi_settings.txt to the Pico.
 * Copy the uf2 file, the Pico should restart, and the timer automatically starts.
+
+#### Wifi Settings
+Example wifi settings file, also includes UDP broadcast port and buffer, these values shouldn't require changing unless you have a conflict.  Source should be updated if you modify.
+```
+{
+    "wifi_ssid": "your_ssid",
+    "wifi_password": "password_value",
+    "data_port": 5007,
+    "buffer_size": 1024
+}
+```
