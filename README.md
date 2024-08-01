@@ -7,9 +7,9 @@ Raspberry Pico network receiver and display codebase for the Pico based temperat
 This code base will receive UDP broadcast packets containing temperature data from the aforementioned sender and plot average probe data and housing data on a Waveshare 1.28 inch display.
 
 The display background will change depending on the water temperature observed.
-* < 15c = Blue
-* > 15c < 24c = Green
-* > 24c = Red
+ < 15c = Blue
+ > 15c < 24c = Green
+ > 24c = Red
 
 ## Hardware Requirements
 * Raspberry Pico W
