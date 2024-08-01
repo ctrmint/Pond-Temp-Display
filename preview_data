@@ -1,0 +1,9 @@
+data = [
+    {'time': 1609728327, 'resolution_raw': 3, 'resolution_bits': 36, 'sensor': '28fd93df0d000054', 'fahrenheit': 75.875, 'sensor_placement': 'Pump housing', 'alarm': False, 'centrigrade': 24.375},
+    {'time': 1609728327, 'resolution_raw': 3, 'resolution_bits': 36, 'sensor': '2825d05704e13c71', 'fahrenheit': 70.25, 'sensor_placement': 'Pond', 'alarm': False, 'centrigrade': 21.25},
+    {'time': 1609728327, 'resolution_raw': 3, 'resolution_bits': 36, 'sensor': '287e9d5704e13ca2', 'fahrenheit': 70.1375, 'sensor_placement': 'Pond', 'alarm': False, 'centrigrade': 21.1875},
+    {'time': 1609728327, 'centrigrade': 31.7, 'max_c': 32.7, 'min_C': 19.1, 'sensor': 'onboard'},
+    {'time': 1609728327, 'type': 'avg_probe_reading', 'location': 'Pond', 'value': 21.21875, 'measurement': 'centrigrade'},
+    {'time': 1609728327, 'type': 'max', 'location': 'Pond', 'value': 21.28125, 'measurement': 'centrigrade'},
+    {'time': 1609728327, 'type': 'min', 'location': 'Pond', 'value': 18.3125, 'measurement': 'centrigrade'}
+]
