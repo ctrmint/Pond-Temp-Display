@@ -1,6 +1,6 @@
 {
     "wifi_ssid": "barpbarp6",
-    "wifi_password": "1qazxsw23edcvfr4",
+    "wifi_password": "password_value",
     "data_port": 5007,
     "buffer_size": 1024
 }
