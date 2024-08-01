@@ -36,5 +36,5 @@ These instructions do not cover the physical installation or support for the har
 * Download the latest Pico W uf2 file
 * Press and hold the BOOTSEL button
 * Connect the Pico to your computer via the appropriate USB cable, after connecting release the BOOTSEL button, the PICO should be mounted to your filesystem.
-* Copy the .py files
+* Copy all the cloned files including the modified wifi_settings.txt to the Pico.
 * Copy the uf2 file, the Pico should restart, and the timer automatically starts.
